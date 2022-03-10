@@ -2,9 +2,8 @@
 /**
  * main -entry point
  * description: use printf
- * return: o
+ * return:0
  */
-
 
 int main(void)
 {
