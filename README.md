@@ -8,3 +8,4 @@ This repo covers the following projects;
 - ### [0x04-more_functions_nested_loops](https://github.com/ginabeki/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
 - ### [0x05-pointers_arrays_strings](https://github.com/ginabeki/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 - ### [0x06-pointers_arrays_strings](https://github.com/ginabeki/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
+- ### [0x07-pointers_arrays_strings](https://github.com/ginabeki/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
